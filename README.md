@@ -10,11 +10,10 @@
 #### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## ✏️Studying
-</br>
-
 ## 🔧Try
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
 ## :mailbox_with_mail: Contacts
@@ -24,6 +23,7 @@
 </br>
 -----------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncici77&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=slswk2955)](https://solved.ac/slswk2955/) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncici77&show_icons=true&theme=tokyonight) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=slswk2955)](https://solved.ac/slswk2955/) 
 
 </div>
