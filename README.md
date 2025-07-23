@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Kim%20Tae%20Wan%20🐉&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Taewan2Da%20🐉&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## 💪Skills
 #### Platforms & Languages
