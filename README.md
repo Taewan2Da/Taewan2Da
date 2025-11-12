@@ -24,6 +24,6 @@
 -----------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taewan2Da&show_icons=true&theme=tokyonight) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs0801)](https://solved.ac/ncs0801/) 
+//[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs0801)](https://solved.ac/ncs0801/) 
 
 </div>
